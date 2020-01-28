@@ -1,23 +1,24 @@
-## First Name Last Name
+## Travonte Williams
 
 ### Spring 2020 
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Business Analytics student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+|**COP2073**|**IDC4943**|**ESI4513**|**STA3241**|**MAN4633**|					
+|:------:|:------:|:------:|:------:|:------:|
+| _Introduction to Data Science_ |Data Analytics Capstone|_Intelligent Mobility_|_Statistical Learning_|_Strategic Management_|
+|3|3|3|3|3|
 
-- Course 2
-
-- Course 3
-
-- Course 4
+Table: This was difficult
+			
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Money
 
-- Thing 2
+- Maturing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Motivating Others 
+as shown in this website <https://www.floridapoly.edu>
